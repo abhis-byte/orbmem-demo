@@ -35,13 +35,6 @@ It introduces a four-layer architecture that enables autonomous agents to store,
 
 ---
 
-## 🏗️ Architecture Diagram
-
-![alt text](OCDB.png)
-
-
----
-
 ## 🚀 Quickstart
 
 ### 1. Install dependencies
